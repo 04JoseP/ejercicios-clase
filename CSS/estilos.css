@@ -1,0 +1,18 @@
+*{padding: 0px;}
+header{background-color: #000;}
+p{color: #fff;}
+#primero{font-family: Arial, Helvetica, sans-serif;font-size: 40px;padding-left: 50px;padding-top: 10px;}
+#segundo{font-family: 'Times New Roman', Times, serif;font-size: 35px;padding-left: 50px;}
+#tercero{font-family: Arial, Helvetica, sans-serif;font-size: 15px;padding-left: 50px;}
+#cuarto{font-family: Arial, Helvetica, sans-serif;font-size: 15px;padding-left: 20px;padding-bottom: 10px;}
+
+h1{font-family: Arial, Helvetica, sans-serif;font-size: 70px;color: #c92f09;padding-top: 20px;}
+h2{font-family: Arial, Helvetica, sans-serif;font-size: 60px;padding-top: 40px;}
+h3{font-family: Arial, Helvetica, sans-serif;font-size: 45px; padding-left: 200px;}
+u{text-decoration-color: #c92f09;}
+
+nav{margin-left: 700px;}
+a{text-decoration: none;font-family: Arial, Helvetica, sans-serif;font-size: 17px;color: #000;padding: 18px;font-weight: bold;}
+a:hover{background-color: #e9af79;}
+
+footer{background-color: #000;}
