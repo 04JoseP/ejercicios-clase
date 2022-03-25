@@ -12,12 +12,13 @@ h2{font-family: Arial, Helvetica, sans-serif;font-size: 60px;padding-top: 40px;}
 h3{font-family: Arial, Helvetica, sans-serif;font-size: 45px; padding-left: 200px;}
 u{text-decoration-color: #c92f09;}
 
-#principal{padding-right: 20px;}
-#texto1{font-family: Arial, Helvetica, sans-serif;font-size: 25px;margin-left: 0;}
+#principal{margin-left: 300px;}
+#texto1{font-family: Arial, Helvetica, sans-serif;font-size: 25px;padding: 20px;}
 #texto2{font-family: Arial, Helvetica, sans-serif;font-size: 17px}
 
 #secundario{margin-left: 700px;}
 
 a{text-decoration: none;font-family: Arial, Helvetica, sans-serif;font-size: 17px;color: #000;padding: 18px;font-weight: bold;}
 a:hover{background-color: #e9af79;}
+
 
